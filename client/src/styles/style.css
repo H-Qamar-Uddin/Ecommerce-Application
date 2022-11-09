@@ -1,0 +1,23 @@
+.loginpage {
+    flex: auto;
+    align-items:center;
+    justify-content:center;
+    text-align: center;
+    background-color: rgb(84, 84, 95);
+    border: 2px solid green;
+    margin: 1px;
+    padding: 30px
+  }
+  .productPage {
+    flex: auto;
+    align-items:center;
+    justify-content:space-evenly;
+    text-align: center;
+    background-color: rgb(102, 148, 175);
+    border: 2px solid green;
+    margin: 1px;
+    padding: 30px
+  }
+  .productPage table { width:300px; color: rgb(3, 3, 3); border-collapse: collapse; align-items: center;  margin-left: auto; margin-right: auto; }
+  .productPage th, .productPage td { padding:15px;  }
+ 
